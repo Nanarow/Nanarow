@@ -8,7 +8,7 @@ Suranaree University of Technology
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [woranan.sholee@gmail.com](mailto:woranan.sholee@gmail.com)
-* 🧠  I'm learning a game development
+* 🧠  I'm learning a software development
 
 ### Skills
 
