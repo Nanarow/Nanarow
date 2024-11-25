@@ -10,6 +10,12 @@ Suranaree University of Technology
 * ✉️  You can contact me at [woranan.sholee@gmail.com](mailto:woranan.sholee@gmail.com)
 * 🧠  I'm learning a software development
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanarow&show_icons=true&rank_icon=github)](https://github.com/nanarow)
+<a href="https://github.com/nanarow">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanarow&layout=compact" />
+</a>
+<a href="https://github.com/nanarow">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nanarow&show_icons=true&rank_icon=github" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanarow&layout=compact)
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,solidjs,next,nodejs,bun,elysia,go,c,cs,cpp,arduino,discordjs,docker,git,postgres,py,ruby,rails,sqlite,unreal,godot)](https://skillicons.dev)
